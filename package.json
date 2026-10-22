@@ -1,10 +1,10 @@
 {
   "name": "dsh-deepseek-peak-clock",
   "version": "1.0.0",
-  "private": true,
   "type": "module",
   "description": "DeepSeek peak/off-peak price clock for the DeepSeek Harness composer HUD.",
   "license": "MIT",
+  "author": "esketids",
   "keywords": [
     "deepseek",
     "deepseek-harness",
