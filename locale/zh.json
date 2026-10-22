@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek 峰谷电价时钟",
+    "description": "在输入框下方的状态行显示 DeepSeek API 当前处于高峰还是低谷计费时段，并实时倒计时到下一次价格切换。"
+  }
+}

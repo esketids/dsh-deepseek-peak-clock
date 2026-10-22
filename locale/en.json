@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DeepSeek Peak Clock",
+    "description": "Shows whether DeepSeek API billing is in the peak or off-peak window, with a live countdown to the next price flip, in the row under the composer."
+  }
+}
