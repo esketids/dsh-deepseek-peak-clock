@@ -1,6 +1,6 @@
 {
   "name": "dsh-deepseek-peak-clock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "DeepSeek peak/off-peak price clock for the DeepSeek Harness composer HUD.",
   "license": "MIT",
@@ -37,11 +37,15 @@
     "LICENSE"
   ],
   "dsh": {
-    "bundle": { "patch": "./cordis.patch.yml" },
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
     "client": {
       "platform": "web",
       "immediately": true,
-      "inject": ["@deepseek-ai/dsh-client-ui-conversation"]
+      "inject": [
+        "@deepseek-ai/dsh-client-ui-conversation"
+      ]
     }
   }
 }
